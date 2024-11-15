@@ -38,9 +38,6 @@ By the end of this course, I aim to:
 
 ```
 📂 Advanced-Data-Structures-and-Algorithms/
-├── 📂 Chapter1_JavaBasics/
-│   ├── JavaSyntaxBasics.java
-│   ├── ObjectOrientedPrinciples.java
 ├── 📂 Chapter2_ArraysLinkedListsRecursion/
 │   ├── ArrayImplementation.java
 │   ├── LinkedListImplementation.java
