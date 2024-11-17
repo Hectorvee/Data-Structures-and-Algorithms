@@ -34,33 +34,6 @@ By the end of this course, I aim to:
 
 ---
 
-## Repository Structure
-
-```
-📂 Advanced-Data-Structures-and-Algorithms/
-├── 📂 Chapter2_ArraysLinkedListsRecursion/
-│   ├── ArrayImplementation.java
-│   ├── LinkedListImplementation.java
-│   ├── RecursionExamples.java
-├── 📂 Chapter3_StacksQueues/
-│   ├── StackImplementation.java
-│   ├── QueueImplementation.java
-├── 📂 Chapter4_Trees/
-│   ├── BinaryTree.java
-│   ├── BalancedTreeExamples.java
-├── 📂 Chapter5_PriorityQueuesHeaps/
-│   ├── PriorityQueue.java
-│   ├── MinHeapImplementation.java
-├── 📂 Chapter6_MapsHashTables/
-│   ├── HashMapImplementation.java
-├── 📂 Chapter7_Graphs/
-│   ├── GraphRepresentation.java
-│   ├── DFS_BFS_Examples.java
-└── README.md
-```
-
----
-
 ## Tools and Technologies
 
 - **Programming Language**: Java
