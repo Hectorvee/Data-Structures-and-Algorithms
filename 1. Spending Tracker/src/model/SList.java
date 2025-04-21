@@ -31,7 +31,7 @@ public class SList<T extends Comparable<T>> implements IList<T> {
 	 */
 	@Override
 	public Node<T> prev(Node<T> node) {
-
+		return null;
 	}
 	
 	/**
@@ -39,7 +39,7 @@ public class SList<T extends Comparable<T>> implements IList<T> {
 	 */
 	@Override
 	public Node<T> next(Node<T> node) {
-
+		return null;
 	}
 	
 	/**
@@ -49,6 +49,7 @@ public class SList<T extends Comparable<T>> implements IList<T> {
 	 */
 	@Override
 	public T replace(Node<T> node, T item) {
+		return null;
 	}
 	
 	/**
@@ -57,6 +58,7 @@ public class SList<T extends Comparable<T>> implements IList<T> {
 	 */
 	@Override
 	public Node<T> insertAfter(Node<T> node, T item) {
+		return null;
 	}
 
 	/**
@@ -65,6 +67,7 @@ public class SList<T extends Comparable<T>> implements IList<T> {
 	 */
 	@Override
 	public Node<T> insertBefore(Node<T> node, T item) {
+		return null;
 	}
 
 	/**
@@ -72,6 +75,7 @@ public class SList<T extends Comparable<T>> implements IList<T> {
 	 * @return the new node
 	 */
 	public Node<T> insertFirst(T item) {
+		return null;
 	} 
 
 	/**
@@ -79,6 +83,7 @@ public class SList<T extends Comparable<T>> implements IList<T> {
 	 * @return the new node
 	 */
 	public Node<T> insertLast(T item){
+		return null;
 	}
 
 	@Override
@@ -104,6 +109,7 @@ public class SList<T extends Comparable<T>> implements IList<T> {
 
 	@Override
 	public T remove(Node<T> node) {
+		return null;
 	}
 
 	/**
@@ -112,6 +118,7 @@ public class SList<T extends Comparable<T>> implements IList<T> {
 	 */
 	@Override
 	public Node<T> search(T elem) {
+		return null;
 	}
 
 	/**
